@@ -1,0 +1,1 @@
+(function(v,b,d,p){if(!p){__$PP=p=function(k,v){p.e(k,v)};p.w=[];p.q=[];p.e=function(k,v){p.q.push([k,v,0])};p.s=function(u,s){s=d.createElement("script");s.async=!0;s.src=u;(d.head||d.body||d.documentElement).appendChild(s)};p.s(b+"s/x.js")}p.w.push([v,b]);})("GOA9smWC559veU11","//api.fouanalytics.com/",document,window.__$PP)
